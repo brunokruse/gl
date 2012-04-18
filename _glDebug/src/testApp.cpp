@@ -78,7 +78,7 @@ print_extension_list(char *ext)
                 width += 2;
             }
         }
-        j++;
+        j++; 
     }
     printf("\n");
 }
